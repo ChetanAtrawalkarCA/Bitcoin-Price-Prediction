@@ -1,0 +1,21 @@
+{
+    "os": "Linux-5.11.0-25-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.7",
+    "heartbeatAt": "2021-08-17T08:57:22.335649",
+    "startedAt": "2021-08-17T08:57:17.083872",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-0f3af08a-18cf-454c-8d13-b26a75002c11.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/RNN/Bitcoin-Price-Prediction",
+    "host": "ranugad",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
